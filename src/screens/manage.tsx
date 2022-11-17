@@ -59,6 +59,7 @@ const styles = StyleSheet.create({
     },
     btn: {
         width: "90%",
-        alignSelf: "center"
+        alignSelf: "center",
+        marginBottom: 30
     }
 });
